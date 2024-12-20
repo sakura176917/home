@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > ## 致
-> 此项目最初只是一个简单的主页。
+> 此项目是一个简单的主页。
 
 <p>
 <strong><h2>樱暮临城の小站</h2></strong>
@@ -11,16 +11,14 @@
 
 ![image](https://github.com/user-attachments/assets/8b3bf12e-9a01-4a0a-928d-c65089891285)
 
-> 主页的 Logo 字体已经过压缩，若用本站 Logo 以外的字母会变回默认字体，这里是 [完整字体](https://file.imsyy.top/font/Other/Pacifico-Regular.ttf)，若无法下载，可将字体目录下的 `Pacifico-Regular-all.ttf` 进行替换
 
-### Demo
+### 主页
 
-> 由于 CDN 缓存原因，查看最新效果可能需要 `Ctrl` + `F5` 强制刷新浏览器缓存
 
 - [樱暮临城の主页](https://www.sakura176917.com)
 
 
-### 🎉 功能
+### 功能
 
 - [x] 载入动画
 - [x] 站点简介
@@ -32,5 +30,10 @@
 - [x] 移动端适配
 
 
+### 🎉 后续更新
+- 借助大佬们的代码做了属于自己的主页项目，学习了服务器域名等知识创建一个个人网站
+- 正在整理个人博客，希望能给自己的小网站逐渐增添内容
 
-<a title="SSL" target="_blank" href="https://myssl.com/seal/detail?domain=blog.imsyy.top"><img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen"></a>&nbsp;<a title="CDN" target="_blank" href="https://cdnjs.com/"><img src="https://img.shields.io/badge/CDN-Cloudflare-blue"></a>&nbsp;<a title="Copyright" target="_blank" href="https://imsyy.top/"><img src="https://img.shields.io/badge/Copyright%20%C2%A9%202020--2023-%E7%84%A1%E5%90%8D-red"></a>
+
+
+
